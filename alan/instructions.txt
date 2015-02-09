@@ -1,0 +1,23 @@
+Instructions
+
+1. cms folder containts... MYSQL DB files
+2. cmspanle contains .. PHP files
+
+NO INSTALLATION
+NO CONFIGURATION
+
+JUST COPY AND PASTE 
+
+YOUR CMS/ADMIN PANEL is now ready to use.
+
+Enjoy.
+
+
+CMS-ADMINPANEL is the free and you can use this product for General and Commercial purpose.
+
+for more information please email at support@karachicorner.com
+
+or visit our blog:
+
+http://blog.karachicorner.com
+

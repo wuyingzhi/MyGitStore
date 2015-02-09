@@ -1,0 +1,2 @@
+<?=FOOTAR?><table width="1120" align="center" bgcolor="#ffffff" border="0" valign="top" cellspacing="0" cellpadding="0">
+<tr><td>&nbsp;&nbsp;&nbsp;<?="<font face=tahoma size=1>Page Generated in: ".(time()-$timestart)." sec</font>"?></td></tr></table>
