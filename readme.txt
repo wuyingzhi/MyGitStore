@@ -3,7 +3,7 @@ This program have scalability.
 It consisted of signup, login, user manage, album and picture manage and so on.
 Login, signup is familiar with other.
 In the window of usermanage admin user can change other state for login and photomanage is able to adding, editing, deleting for albums and pictures,    
-If you like to add some functionality,whenever is avalable.
+If you like to add some functionality,it is always avalable.
 
 If user login,then is linked to main page,that like to photomanage page,that can move to other page.
 In each page is button going to login page.
